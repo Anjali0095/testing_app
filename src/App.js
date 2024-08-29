@@ -4,7 +4,6 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>ghyiuyew🔥🔥</h1>
         <h1>Learn React with us!😍😍🔥</h1>
       </header>
     </div>
